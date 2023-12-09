@@ -44,7 +44,19 @@ const music_list = [
         name : 'Rather Be',
         artist : 'Clean Bandit',
         music : 'music/Rather Be.mp3'
-    }
+    },
+    {
+        img : 'images/Green Day - American Idiot (2004).jpeg',
+        name : 'American Idiot',
+        artist : 'Grenn Day',
+        music : 'music/Green_Day_-_American_Idiot.mp3'
+    },
+    {
+        img : 'images/Red Sticker _ Red Hot Chilli.jpeg',
+        name : 'Around the World',
+        artist : 'Red Hot Chilli Peppers',
+        music : 'music/Red_Hot_Chili_Peppers_-_Around_the_World.mp3'
+    },
 ];
 
 loadTrack(track_index);
